@@ -8,6 +8,6 @@ namespace PiggyBank.Classes
 {
     class DenemeClass
     {
-        ///Deneme sınıfı ekledım github için
+        ///Deneme sınıfı ekledım github için Kullanıyorum bu sınıfı
     }
 }
