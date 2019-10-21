@@ -47,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Classes\BozukPara.cs" />
+    <Compile Include="Classes\DenemeClass.cs" />
     <Compile Include="Classes\ISallanabilirlik.cs" />
     <Compile Include="Classes\KagitPara.cs" />
     <Compile Include="Classes\Kumbara.cs" />
